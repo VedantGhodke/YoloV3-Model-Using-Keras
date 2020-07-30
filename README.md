@@ -1,4 +1,4 @@
-# keras-yolo3
+# Yolov3 Model Using Keras
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
